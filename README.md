@@ -1,2 +1,2 @@
-practice on event javascript listeners
+practice on javascript event listeners
 change bg-color on scroll
