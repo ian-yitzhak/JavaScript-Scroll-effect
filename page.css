@@ -1,0 +1,50 @@
+body {
+    background: blue;
+    transition: 0.5s ease;
+}
+
+h1 {
+    color: black;
+    padding: 150px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 10vh;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.head p {
+    font-size: 7vh;
+    text-align: center;
+    font-family: sans-serif;
+    color: darkorange;
+    font-weight: 300;
+}
+
+.body p {
+    font-size: 7vh;
+    text-align: center;
+    font-family: sans-serif;
+    color: rgb(255, 0, 200);
+    font-weight: 400;
+}
+
+.content {
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+img {
+    height: 70vh;
+    width: 70vh;
+}
+
+.bg-active {
+    background: cornflowerblue;
+}
+
+.b-active {
+    background: rgb(255, 0, 200);
+}
